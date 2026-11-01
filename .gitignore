@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.venv/
+
+# Environment variables (secrets!)
+.env
+backend/.env
+
+# Build output
+dist/
+
+# IDE / OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
